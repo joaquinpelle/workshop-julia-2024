@@ -26,7 +26,7 @@ Estos también me han resultado extremadamente útiles:
 
 [Blog oficial de Julia](https://julialang.org/blog/)
 
-[Foro de Julia](https://discourse.julialang.org/)
+[Discourse de Julia](https://discourse.julialang.org/)
 
 [Modern Julia Workflows](https://modernjuliaworkflows.org/)
 
