@@ -12,7 +12,7 @@ Algunos recursos que he utilizado para realizar este material:
 
 ## Libros
 
-Este libro tuvo un enorme impacto en mi forma de pensar el desarrollo de código en Julia. Lo recomiendo mucho:
+Este libro tuvo un enorme impacto en mi forma de pensar el desarrollo de código en Julia, lo recomiendo mucho:
 
 [Hands-On Design Patterns and Best Practices with Julia (Tom Kwong)](https://www.packtpub.com/en-us/product/hands-on-design-patterns-and-best-practices-with-julia-9781838648817)
 
