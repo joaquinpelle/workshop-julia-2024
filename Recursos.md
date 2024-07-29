@@ -24,7 +24,7 @@ Estos también me han resultado extremadamente útiles:
 
 ## Recomendaciones Varias
 
-[Blog de Julia](https://julialang.org/blog/)
+[Blog oficial de Julia](https://julialang.org/blog/)
 
 [Foro de Julia](https://discourse.julialang.org/)
 
