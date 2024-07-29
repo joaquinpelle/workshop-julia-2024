@@ -22,7 +22,7 @@ Estos también me han resultado extremadamente útiles:
 
 [Parallel Computing and Scientific Machine Learning (Chris Rackauckas)](https://book.sciml.ai/)
 
-## Recomendaciones Varias
+## Miscelánea
 
 [Blog oficial de Julia](https://julialang.org/blog/)
 
